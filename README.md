@@ -4,4 +4,4 @@
 + Flex
 + Grid
 
-[링크](https://idemperor.github.io/mySite/)
+[링크](https://idemperor.github.io/airbnb_copy/)
